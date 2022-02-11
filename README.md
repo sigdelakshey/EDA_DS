@@ -1,2 +1,2 @@
 # EDA_DS
-Exploratory data analysis of US Accidents dataset
+Simple Exploratory data analysis of few columns in US Accidents dataset
